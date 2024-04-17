@@ -1,0 +1,15 @@
+.product-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.price {
+    font-weight: bold;
+    
+}
+.product-container{
+    gap: 20px;
+    display: flex;
+}
